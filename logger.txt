@@ -1,6 +1,0 @@
-Blur: about to update input1
-PNMreader: about to execute
-PNMreader: done executing
-Blur: done updating input1
-Blur: about to execute
-Blur: done executing
